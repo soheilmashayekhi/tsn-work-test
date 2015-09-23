@@ -16,4 +16,8 @@ Describe the challenges related to a team working on the same code base.
 - How should we deploy our code?
 
 -------
-Submit your answers via Github.
+## Answer
+Submit your answers via Github to this repo.
+
+Best regards,   
+-øistein-
