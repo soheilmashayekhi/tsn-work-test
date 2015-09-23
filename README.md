@@ -17,7 +17,7 @@ Describe the challenges related to a team working on the same code base.
 
 -------
 ## Answer
-Submit your answers via Github to this repo.
+Submit your answers via a secret Gist @ Github.
 
 Best regards,   
 -øistein-
